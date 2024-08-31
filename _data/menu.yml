@@ -58,5 +58,5 @@ entries:
       - title: About me
         url: about # .md는 안적어도 되나봐
 
-  - title: rss
+  - title: RSS
     url: feed.xml
