@@ -5,7 +5,7 @@ entries:
   - title: 소개
     entries:
       - title: 개발자 양시준의 블로그.
-      - title: 개발에 관한 회고, 인사이트, 정보를 공유합니다
+      - title: 개발에 관한 회고, 인사이트, 정보를 공유합니다.
 
   - title: 최근 포스트
     post_list:
@@ -49,12 +49,14 @@ entries:
 
   - title: 더 많은 정보
     entries:
-      - title: linkedin
+      - title: Linkedin
         url: https://www.linkedin.com/in/sijun-yang
-      - title: github
+      - title: Github
         url: https://github.com/YangSiJun528
-      - title: yangsijun5528@gmail.com
+      - title: Email
         url: mailto:yangsijun5528@gmail.com
+      - title: About
+        url: about.md
 
   - title: rss
     url: feed.xml
