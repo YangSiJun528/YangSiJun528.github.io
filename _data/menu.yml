@@ -55,8 +55,8 @@ entries:
         url: https://github.com/YangSiJun528
       - title: Email
         url: mailto:yangsijun5528@gmail.com
-      - title: About
-        url: about.md
+      - title: About me
+        url: about # .md는 안적어도 되나봐
 
   - title: rss
     url: feed.xml
