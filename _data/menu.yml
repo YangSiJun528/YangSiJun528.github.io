@@ -35,9 +35,6 @@ entries:
 #       show_more: true
 #       show_more_text: See more posts...
 #       show_more_url: example2-archive.html
-
-#   - title: rss
-#     url: feed.xml
   
 #   - title: another list
 #     entries:
@@ -58,3 +55,6 @@ entries:
         url: https://github.com/YangSiJun528
       - title: yangsijun5528@gmail.com
         url: mailto:yangsijun5528@gmail.com
+
+  - title: rss
+    url: feed.xml

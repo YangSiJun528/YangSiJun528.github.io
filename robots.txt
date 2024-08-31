@@ -3,3 +3,4 @@
 
 User-agent: *
 Allow: /
+Sitemap: https://yangsijun528.github.io/_site/sitemap.xml
