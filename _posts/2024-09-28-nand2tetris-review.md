@@ -7,7 +7,7 @@ title: "밑바닥부터 만드는 컴퓨팅 시스템(Nand to Tetris) 후기와 
 나에게 매우 만족스러운 강의였어서 간단한 소개와 느낀점에 대해 공유해보고자 한다. 
 
 - Coursera [강의 수료증](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EC%96%91-31a91827b/details/certifications/)
-- 스터디 진행하는 Github Repository [강의 수료증](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EC%96%91-31a91827b/details/certifications/)
+- 스터디 진행하는 [Github Repository](https://github.com/chijoon-study/B-major-study/wiki/Nand2Tetris-%EC%96%91%EC%8B%9C%EC%A4%80) 
 
 ## 밑바닥부터 만드는 컴퓨팅 시스템(Nand to Tetris) 소개
 
