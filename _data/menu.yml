@@ -13,7 +13,7 @@ entries:
       limit: 10
       show_more: true
       show_more_text: 더 많은 포스트 보기...
-      show_more_url: archive.html
+      show_more_url: archive
 
 # entries:
 #   - title: info
@@ -50,10 +50,10 @@ entries:
 
   - title: 더 많은 정보
     entries:
-      - title: Linkedin
-        url: https://www.linkedin.com/in/sijun-yang
       - title: Github
         url: https://github.com/YangSiJun528
+      - title: X
+        url: https://x.com/_sijun_yang
       - title: Email
         url: mailto:yangsijun5528@gmail.com
       - title: Portfolio - Not yet...
