@@ -15,6 +15,10 @@ entries:
       show_more_text: 더 많은 포스트 보기...
       show_more_url: archive
 
+  - title: Knowledge
+    entries:
+      - title: 지식 저장소
+
 # entries:
 #   - title: info
 #     entries:
