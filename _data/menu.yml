@@ -1,0 +1,66 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 소개
+    entries:
+      - title: 개발에 관한 회고, 인사이트, 정보를 공유합니다.
+      - title: 자세히 알아보기...
+        url: about # .md는 안적어도 되나봐
+
+  - title: 최근 포스트
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: 더 많은 포스트 보기...
+      show_more_url: archive
+
+  - title: 지식 저장소
+    url: knowledge
+
+# entries:
+#   - title: info
+#     entries:
+#       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+#       - title: github repo
+#         url: https://github.com/riggraz/no-style-please
+#       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+#   - title: all posts
+#     post_list:
+#       limit: 5
+#       show_more: true
+#       show_more_text: See archive...
+#       show_more_url: archive.html
+
+#   - title: posts by category
+#     post_list:
+#       category: example2
+#       show_more: true
+#       show_more_text: See more posts...
+#       show_more_url: example2-archive.html
+  
+#   - title: another list
+#     entries:
+#       - title: with subitems
+#         entries:
+#           - title: with subsubitems
+#           - title: example page
+#             url: about
+#   - title: PRO TIP
+#     entries:
+#       - title: to edit this menu, edit _data/menu.yml file
+
+  - title: 더 많은 정보
+    entries:
+      - title: Github
+        url: https://github.com/YangSiJun528
+      - title: X
+        url: https://x.com/_sijun_yang
+      - title: Email
+        url: mailto:yangsijun5528@gmail.com
+      - title: Portfolio - Not yet...
+        #url: 
+
+  - title: RSS
+    url: feed.xml
