@@ -14,7 +14,8 @@ export function generateHtmlPage(title: string, content: string, currentPath: st
 export function generateDirectoryPageHtml(currentPath: string, items: DirectoryItem[]): string {
     const breadcrumbs = generateBreadcrumbs(currentPath, false);
     const directoryListContent = generateDirectoryListContent(currentPath, items);
-    return generatePageHtml(`Index of ${currentPath}`, directoryListContent, breadcrumbs);
+    const title = `sijun-yang.com` //`Index of ${currentPath}`
+    return generatePageHtml(title, directoryListContent, breadcrumbs);
 }
 
 function generatePageHtml(title: string, content: string, breadcrumbs: string): string {
