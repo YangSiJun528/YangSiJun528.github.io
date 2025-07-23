@@ -34,7 +34,7 @@ function generatePageHtml(title: string, content: string, breadcrumbs: string): 
             --primary-bg-color: #F8F8F8; /* Soft white background */
             --text-color: #333333; /* Dark grey for text */
             --link-color: #0040FFFF; /* Blue link color */
-            --font-family: 'D2Coding', monospace, serif;
+            --font-family: 'D2Coding';
             --padding-base: 15px;
             --content-width: 800px;
         }
